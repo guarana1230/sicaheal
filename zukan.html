@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>SICA-HEAL</title>
+        <meta name="description" content="魚に関するいろいろなコンテンツをお届け！" />
+        <style>
+          img{
+              width: 480px;
+              height: auto; 
+              }
+        </style>
+    </head>
+    <body>
+       <div style="text-align: center;">
+       <a href="sicahelHOME.html"><img src="sicaheltop.png" alt="トップページへ"></a>
+       <h2>旬の魚図鑑</h2>
+       <a href="https://www.maff.go.jp/j/shokusan/gaisyoku/attach/pdf/inbound29-6.pdf">魚の名前や季節はこちらの情報を引用しております</a></div>
+<script>
+    // XMLHttpRequestを使ってjsonデータを読み込む
+let requestURL = 'data.json';//jsonへのパス
+let request = new XMLHttpRequest();
+request.open('GET', requestURL);
+request.responseType = 'json';
+request.send();
+ 
+// JSONデータをJavaScriptオブジェクトに変換
+request.onload = function () {
+  let data = request.response;
+  data = JSON.parse(JSON.stringify(data));
+  dataArray(data);
+}
+ 
+// foreachでJSONデータをHTMLに出力
+function dataArray(els) {
+  // JSONデータを出力したいHTML要素を指定
+  let array = document.querySelector('.array');
+  els.forEach(el => {
+    let name = el.name;
+    let yomikata = el.yomikata;
+    let season = el.season;
+    let memo = el.memo;
+    let gazo = el.photo;
+    let credit = el.credit;
+    let code = '<div style="color: #004" width:"640" height:"480">'+
+    '<h2> 魚の名前：' + name + '</h2>'+
+    '<p> 読み方：' + yomikata + '</p>'+
+    '<p> 旬の季節：' + season + '</p>'+
+    '<p> おさかなメモ：' + memo + '</p>'+
+    '<p> 魚の画像：' + gazo + '</p>' +
+    '画像のクレジット：' + credit +
+    '<hr>'+
+    '</div>';
+    array.insertAdjacentHTML('beforeend',code);
+  });
+}
+</script>
+<div class="array"></div>
+
+</body>
+</html>

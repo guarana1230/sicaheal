@@ -1,0 +1,186 @@
+[
+    {
+        "name": "鰆",
+        "yomikata": "さわら",
+        "season": "春",
+        "memo": "漢字の文字通り春の魚。",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/c/cd/Scnip_u0.gif\">",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "しらす",
+        "yomikata": "しらす",
+        "season": "春",
+        "memo": "実はイワシの稚魚なので、一つの魚の名前ではない",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Japanese_raw_whitebait_2014.jpg/1280px-Japanese_raw_whitebait_2014.jpg\"> ",
+        "credit": "Kentin - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=36878716による"
+    },
+    {
+        "name": "鯛",
+        "yomikata": "たい",
+        "season": "春",
+        "memo": "一般的には高級魚。実は鯖と同じスズキ科",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pagrus_major_Red_seabream_ja01.jpg/1920px-Pagrus_major_Red_seabream_ja01.jpg\"> ",
+        "credit": "Miya - Miya's file, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=462069による"
+    },
+    {
+        "name": "眼張",
+        "yomikata": "めばる",
+        "season": "春",
+        "memo": "淡白なため、どの料理にも合う。洋食でも活躍！",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b6/Sebastes_Inermis.jpg\"> ",
+        "credit": "Daiju Azuma - 投稿者自身による著作物, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=1623551による"
+    },
+    {
+        "name": "山女魚",
+        "yomikata": "やまめ",
+        "season": "春",
+        "memo": "実は鮭の仲間",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Oncorhynchus_masou_par.jpg/1920px-Oncorhynchus_masou_par.jpg\"> ",
+        "credit": "信州サーモン - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=61532149による"
+    },
+    {
+        "name": "鯵",
+        "yomikata": "あじ",
+        "season": "夏",
+        "memo": "おいしい「あじ」の正体はアミノ酸!",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Trachurus_japonicus_Umi-Tamago.jpg/1280px-Trachurus_japonicus_Umi-Tamago.jpg\"> ",
+        "credit": "Totti - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=66010194による"
+    },
+    {
+        "name": "穴子",
+        "yomikata": "あなご",
+        "season": "夏",
+        "memo": "ウナギ目といって、鰻の仲間!",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/f/ff/Conger_eel.jpg\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "鮎",
+        "yomikata": "あゆ",
+        "season": "夏",
+        "memo": "川釣りの代表魚",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a9/Sweetfish%2C_Plecoglossus_altivelis.jpg\"> ",
+        "credit": "OAS at the Japanese language Wikipedia, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=112815832による"
+    },
+    {
+        "name": "岩魚",
+        "yomikata": "いわな",
+        "season": "夏",
+        "memo": "川釣りの代表魚",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Salvelinus_leucomaenis_japonicus-3.jpg/1920px-Salvelinus_leucomaenis_japonicus-3.jpg\"> ",
+        "credit": "Apple2000 - 自ら撮影, CC 表示 3.0, https://commons.wikimedia.org/w/index.php?curid=14640186による"
+    },
+    {
+        "name": "鱧",
+        "yomikata": "はも",
+        "season": "夏",
+        "memo": "活きた鱧は高値で取引されやすい",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/1/1d/Muraenesox_cinereus.JPG\"> ",
+        "credit": "James Lin - http://www.fishbase.us/photos/thumbnailssummary.php?ID=298, CC 表示 3.0, https://commons.wikimedia.org/w/index.php?curid=26183853による"
+    },
+    {
+        "name": "鰹",
+        "yomikata": "かつお",
+        "season": "夏-秋",
+        "memo": "初鰹は夏が、戻り鰹は秋が旬",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/2/2e/Kapel_u0.gif\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "カマス",
+        "yomikata": "かます",
+        "season": "秋",
+        "memo": "日本国内では一般的にアカカマスを指す",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sphyraena_pinguis_Uminomori.jpg/1920px-Sphyraena_pinguis_Uminomori.jpg\"> ",
+        "credit": "Totti - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=105649439による"
+    },
+    {
+        "name": "鮭",
+        "yomikata": "さけ",
+        "season": "秋",
+        "memo": "サーモンとも言われている子供にも人気があるお魚",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/3/38/Salmon_%28breeding_color%29.jpg\"> ",
+        "credit": "コンピュータが読み取れる情報は提供されていませんが、Vineyardだと推定されます（著作権の主張に基づく） - コンピュータが読み取れる情報は提供されていませんが、投稿者自身による著作物だと推定されます（著作権の主張に基づく）, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=458983による"
+    },
+    {
+        "name": "鯖",
+        "yomikata": "さば",
+        "season": "秋",
+        "memo": "サーバーを表すスラングとしても使われている",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/8/88/Maquereaux_etal.jpg\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "秋刀魚",
+        "yomikata": "さんま",
+        "season": "秋",
+        "memo": "文字通り秋の魚。",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/8/80/Sanma01.jpg\"> ",
+        "credit": "Miya, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=1208299による"
+    },
+    {
+        "name": "赤鯥",
+        "yomikata": "あかむつ",
+        "season": "冬",
+        "memo": "北陸や山陰では高級魚として知られる",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Doederleinia_berycoides_Marinepia_1.jpg/1920px-Doederleinia_berycoides_Marinepia_1.jpg\"> ",
+        "credit": "Totti - 投稿者自身による著作物, CC 表示-継承 4.0, https://commons.wikimedia.org/w/index.php?curid=85132282による"
+    },
+    {
+        "name": "鮟鱇",
+        "yomikata": "あんこう",
+        "season": "冬",
+        "memo": "日本だけではなく世界でも食べられている",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/6/69/Seeteufel.jpg\"> ",
+        "credit": "User Meocrisis on de.wikipedia - made by Meocrisis, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=863488による"
+    },
+    {
+        "name": "金目鯛",
+        "yomikata": "きんめだい",
+        "season": "冬",
+        "memo": "目にあるタペータムが反射して金色に見えている",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Splendid_alfonsino_%28_Beryx_splendens_%29.jpg/1280px-Splendid_alfonsino_%28_Beryx_splendens_%29.jpg\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "鱈",
+        "yomikata": "たら",
+        "season": "冬",
+        "memo": "ここで津軽弁一句　　「めったらだ(おいしそうな)　これなんだんず(これは何ですか)　めぇたらだ(美味しい鱈です)」",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/f/f0/Pacific_cod_-_cropped.jpg\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    },
+    {
+        "name": "鮃",
+        "yomikata": "ひらめ",
+        "season": "冬",
+        "memo": "カレイと似ている",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/9/90/Paralichthys_olivaceus.jpg\"> ",
+        "credit": "Daiju Azuma - 投稿者自身による著作物, CC 表示-継承 2.5, https://commons.wikimedia.org/w/index.php?curid=1613193による"
+    },
+    {
+        "name": "河豚",
+        "yomikata": "ふぐ",
+        "season": "冬",
+        "memo": "毒注意!☡ 青酸カリの1000倍程度! ふぐ調理師免許を持ってから捌こう!",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/2/25/Fugu_in_Tank.jpg\"> ",
+        "credit": "Chris 73 / Wikimedia Commons, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=9900による"
+    },
+    {
+        "name": "鰤",
+        "yomikata": "ぶり",
+        "season": "冬",
+        "memo": "地域では大きさによって名前が異なる",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a9/Seriola_quinqueradiata_%28200810%29.jpg\"> ",
+        "credit": "E-190's - E-190's file, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=5009197による"
+    },
+    {
+        "name": "公魚",
+        "yomikata": "わかさぎ",
+        "season": "冬",
+        "memo": "氷に穴をあけて釣る。",
+        "photo": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wakasagi_Adult_%2870mm%29.tif/lossless-page1-250px-Wakasagi_Adult_%2870mm%29.tif.png\"> ",
+        "credit": "この画像はパブリックドメインです。"
+    }
+]
