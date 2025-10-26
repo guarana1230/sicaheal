@@ -1,46 +1,46 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <title>SICA-HEAL</title>
-        <meta name="description" content="魚に関するいろいろなコンテンツをお届け！" />
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
-       <div style="text-align: center;">
-       <a href="index.html"><img src="sicaheltop.png" alt="トップページへ"></a></div>
-       <h2>ビンゴ</h2>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>SICA-HEAL</title>
+  <meta name="description" content="魚に関するいろいろなコンテンツをお届け！" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div style="text-align: center;">
+    <a href="index.html"><img src="sicaheltop.png" alt="トップページへ"></a>
+  </div>
+  
+  <h2>ビンゴ</h2>
 
-    <script>
+  <script>
     var img;
 
-    function img1(){
-    img = document.getElementById(“image_file”);
-    img.src = “img/saba.png”;
+    function img1() {
+      img = document.getElementById("image_file");
+      img.src = "img/saba.png";
     }
 
-    function img2(){
-    img = document.getElementById(“image_file”);
-    img.src = “img/salmon.png”;
+    function img2() {
+      img = document.getElementById("image_file");
+      img.src = "img/salmon.png";
     }
 
-    function img3(){
-    img = document.getElementById(“image_file”);
-    img.src = “img/ebimayo.png”;
+    function img3() {
+      img = document.getElementById("image_file");
+      img.src = "img/ebimayo.png";
     }
+  </script>
 
-    </script>
+  <input type="button" onclick="img1()" value="鯖食べた!">
+  <input type="button" onclick="img2()" value="サーモン食べた!(刺身)">
+  <input type="button" onclick="img3()" value="エビマヨ食べた!">
+  
+  <br><br>
 
-    <input type=”button” onclick=”img1()” value=”鯖食べた!″>
-    <input type=”button” onclick=”img2()” value=”サーモン食べた!(刺身)″>
-    <input type=”button” onclick=”img3()” value=”エビマヨ食べた!″>
-    <br><br>
-    <img id=”image_file”src=””/>
+  <img id="image_file" src="" alt="画像がここに表示されます">
 
 </body>
 </html>
-
-
-
