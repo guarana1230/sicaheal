@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>SICA-HEAL</title>
+        <meta name="description" content="魚に関するいろいろなコンテンツをお届け！" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+       <div style="text-align: center;">
+       <a href="index.html"><img src="sicaheltop.png" alt="トップページへ"></a></div>
+       <h2>関連ガジェット</h2>
+       <p>SICA-HEALの開発者が作ったものです。文字通りの"3D"コンテンツ。</p>
+        <video src="sicaheal_megane.mp4" controls></video>
+       
+</body>
+
+</html>
